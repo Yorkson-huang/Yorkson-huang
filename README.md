@@ -1,2 +1,2 @@
 # About Me 🌟  
-- 🏫: I am currently an undergraduate student at **China Agricultural University**.  
+- 🏫: I am currently an student at **China Agricultural University**.  
