@@ -2,7 +2,8 @@
 
 ### About Me 🌟  
 - 🏫: I am currently an student at **China Agricultural University**.
-- 📧: Feel free to contact me via email at huangyuesheng@cau.edu.cn
+- 📧: Feel free to contact me via email at huangyuesheng@cau.edu.cn.
+- 🌍：My personal page：https://yasen03.github.io/
 
 <p align="center">
   <img src="./images/doggo-doge.gif" alt="Doggo 1" width="100" />
