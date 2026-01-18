@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi there! I'm Yasen</h2>
 
-# About Me 🌟  
+### About Me 🌟  
 - 🏫: I am currently an student at **China Agricultural University**.
 - 📧: Feel free to contact me via email at huangyuesheng@cau.edu.cn
 
