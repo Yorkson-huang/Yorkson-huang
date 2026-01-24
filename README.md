@@ -2,7 +2,7 @@
 
 ### About Me 🌟  
 - 🏫: I am currently an student at **China Agricultural University**.
-- 📧: Feel free to contact me via email at huangyuesheng@cau.edu.cn.
+- 📧: Feel free to contact me via email at yorksonhuang@gmail.com
 - 🌍: My personal homepage at https://yasen03.github.io/
 
 <p align="center">
