@@ -1,7 +1,6 @@
 <h2 align="center">👋 Hi there! I'm Yasen</h2>
 
 ### About Me 🌟  
-- 🏫: I am currently an student at **China Agricultural University**.
 - 📧: Feel free to contact me via email at yorksonhuang@gmail.com
 - 🌍: My personal homepage at https://yasen03.github.io/
 
