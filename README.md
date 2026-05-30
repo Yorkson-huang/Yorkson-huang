@@ -2,8 +2,7 @@
 
 ### About Me 🌟  
 - 🎓: I will pursue my master's degree at Tsinghua University SIGS, focusing on Multimodal Learning.
-- 📧: Feel free to contact me via email at yorksonhuang@gmail.com
-- 🌍: My personal homepage at https://yasen03.github.io/
+
 
 <p align="center">
   <img src="./images/doggo-doge.gif" alt="Doggo 1" width="100" />
