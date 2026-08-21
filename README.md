@@ -2,7 +2,7 @@
 
 ### About Me 🌟  
 - 🎓: I will pursue my master's degree at Tsinghua University SIGS, focusing on Multimodal Learning.
-
+- 📧: hys26@mails.tsinghua.edu.cn
 
 <p align="center">
   <img src="./images/doggo-doge.gif" alt="Doggo 1" width="100" />
